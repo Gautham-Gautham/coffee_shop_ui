@@ -20,46 +20,65 @@ Presenting "Coffee" - a Flutter UI application that invites you to indulge in a 
 <img src="./demo.png">
 
 
-## Getting Started
+[//]: # (## Getting Started)
 
-To get started with the Coffee app, follow these steps:
+[//]: # ()
+[//]: # (To get started with the Coffee app, follow these steps:)
 
-1. **Prerequisites:** Ensure you have Flutter installed on your system. If not, you can install it from the official Flutter website.
+[//]: # ()
+[//]: # (1. **Prerequisites:** Ensure you have Flutter installed on your system. If not, you can install it from the official Flutter website.)
 
-2. **Clone the Repository:** Clone this repository to your local machine using the following command:
+[//]: # ()
+[//]: # (2. **Clone the Repository:** Clone this repository to your local machine using the following command:)
 
+[//]: # ()
+[//]: # ()
+[//]: # (3. **Install Dependencies:** Navigate to the project directory and install the required dependencies:)
 
-3. **Install Dependencies:** Navigate to the project directory and install the required dependencies:
+[//]: # ()
+[//]: # ()
+[//]: # (4. **Run the App:** Now, you can run the app on your connected device or emulator:)
 
+[//]: # ()
+[//]: # ()
+[//]: # (## Contributing)
 
-4. **Run the App:** Now, you can run the app on your connected device or emulator:
+[//]: # ()
+[//]: # (We welcome contributions from the community! If you'd like to contribute to the app, follow these steps:)
 
+[//]: # ()
+[//]: # (1. Fork this repository.)
 
-## Contributing
+[//]: # ()
+[//]: # (2. Create a new branch for your feature or bug fix.)
 
-We welcome contributions from the community! If you'd like to contribute to the app, follow these steps:
+[//]: # ()
+[//]: # (3. Make your changes and commit them with descriptive commit messages.)
 
-1. Fork this repository.
+[//]: # ()
+[//]: # (4. Push your changes to your forked repository.)
 
-2. Create a new branch for your feature or bug fix.
+[//]: # ()
+[//]: # (5. Create a pull request to the `main` branch of this repository.)
 
-3. Make your changes and commit them with descriptive commit messages.
+[//]: # ()
+[//]: # (We'll review your pull request and merge it if everything looks good!)
 
-4. Push your changes to your forked repository.
+[//]: # ()
+[//]: # ()
+[//]: # (## Acknowledgements)
 
-5. Create a pull request to the `main` branch of this repository.
+[//]: # ()
+[//]: # (We would like to thank the Flutter community for their support and contributions.)
 
-We'll review your pull request and merge it if everything looks good!
+[//]: # ()
+[//]: # (## Contact)
 
+[//]: # ()
+[//]: # (If you have any questions or suggestions regarding the Coffee app, feel free to contact us at gauthamkrishna277@gmail.com)
 
-## Acknowledgements
+[//]: # ()
+[//]: # (---)
 
-We would like to thank the Flutter community for their support and contributions.
-
-## Contact
-
-If you have any questions or suggestions regarding the Coffee app, feel free to contact us at gauthamkrishna277@gmail.com
-
----
-
-Thank you for joining us on this delightful coffee adventure! We hope you enjoy exploring the world of specialty coffees with our app. Happy sipping! ☕️
+[//]: # ()
+[//]: # (Thank you for joining us on this delightful coffee adventure! We hope you enjoy exploring the world of specialty coffees with our app. Happy sipping! ☕️)
